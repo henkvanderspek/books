@@ -2,8 +2,12 @@
   "items": [
     {
       "title": "Growth",
-      "author": "Vaclav Smil",
-      "curator": [
+      "authors": [
+        {
+          "name": "Vaclav Smil"
+        }
+      ],
+      "curators": [
         {
           "name": "Bill Gates",
           "url": "https://www.gatesnotes.com/Books/Growth"
